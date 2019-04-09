@@ -1,3 +1,4 @@
 postgres==2.2.1
 psycopg2==2.7.1
 python-dotenv==0.10.1
+djangorestframework-jwt==1.11.0
